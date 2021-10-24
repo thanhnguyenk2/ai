@@ -1,1 +1,2 @@
-# ai
+# AI
+# Artifical Intelligent in Control
